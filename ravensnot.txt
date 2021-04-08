@@ -1,0 +1,1 @@
+Teste de serviço com caracteres latins, (ÇÃ~EÉÍÓÒÈ)
