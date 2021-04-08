@@ -1,5 +1,7 @@
-UPD.1 REFORMULADO O SISTEMA DE PRIORIDADES
+🎉 UPD.2 ⚠️
 
-- Não existem ganhos de ferraduras na fila de espera;
-- As ferraduras são trimestrais;
-- Reajustadas as ferraduras já compradas (por excesso).
+- Regra 6 de assaltos adicionada
+- Regra 7 de assaltos adicionada
+- Regra 8 de assaltos adicionada
+- Removida a possibilidade de revistar pessoas "mortas" derivado da regra 6
+- Lenhador a funcionar novamente (no próximo RR)
